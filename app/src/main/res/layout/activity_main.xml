@@ -38,6 +38,7 @@
         android:id="@+id/imageView"
         android:layout_width="245dp"
         android:layout_height="245dp"
+        android:contentDescription="Logo Tesouro dos Jogos"
         app:layout_constraintBottom_toTopOf="@+id/nav_view"
         app:layout_constraintEnd_toEndOf="@+id/nav_host_fragment"
         app:layout_constraintStart_toStartOf="@+id/nav_host_fragment"
